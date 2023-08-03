@@ -1,0 +1,4 @@
+GET /book/foreword.html HTTP/1.1
+Host: doc.rust-lang.org
+If-modified-since: Wed, 2 Aug 2023 00:00:00 GMT
+Connection: close
